@@ -7,7 +7,7 @@ Diese Anleitung hilft Ihnen, eine Kopie des Projekts auf Ihrem lokalen Gerät zu
 ### Erste Schritte
 1. Entpacken Sie die ZIP-Datei.
 2. Öffnen Sie eine Kommandozeile im entpackten Ordner. 
-3. Installieren Sie die benötigten Node.js-Module mittels `npm install`.
+3. Installieren Sie die benötigten Module mittels `npm install`.
 4. Starten Sie die App mittels `npm run dev` then press "o" + Enter.
 
 ### Entwicklerteam
