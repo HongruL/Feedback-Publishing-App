@@ -1,4 +1,3 @@
-# Web-Technologien Studienleistung 4
 Diese Anleitung hilft Ihnen, eine Kopie des Projekts auf Ihrem lokalen Gerät zum Entwickeln und Testen einzurichten.
 
 ### Voraussetzungen
